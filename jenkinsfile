@@ -17,7 +17,8 @@ pipeline {
 		
 		  steps {
 				
-				sh "sudo yum install tree -y"
+				sh "sudo yum remove tree -y"
+				echo "23Q1"
 		  
 		  }
 		
