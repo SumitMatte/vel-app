@@ -17,7 +17,7 @@ pipeline {
 		
 		  steps {
 				
-				sh "sudo yum install tree -y"
+				echo "23Q2"
 		  
 		  }
 		
